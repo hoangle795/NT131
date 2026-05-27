@@ -32,6 +32,7 @@ Camera → Raspberry Pi → Cloud Server (FastAPI)
                Fall Detection Algorithm
                               ↓
          Telegram Alert + Buzzer + Web Dashboard
+```
 Technologies Used
 Hardware
 Raspberry Pi 3 Model B+
